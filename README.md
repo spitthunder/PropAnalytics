@@ -19,7 +19,7 @@ All modules are integrated into a user-friendly web interface built with Streaml
 - **Seaborn**: Enhanced data visualization
 - **WordCloud**: Visualization of key textual data
 - **Pickle**: Object serialization
-
+  
 ## How to Run the Web Application
 
 ### Prerequisites
@@ -29,25 +29,29 @@ All modules are integrated into a user-friendly web interface built with Streaml
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/spitthunder/PropAnalytics.git
+   cd PropAnalytics
    ```
 2. Install the required Python Packages:
    ```bash
    pip install -r requirements.txt
    ```
-  
 
 ### Running the Application
 1. Navigate to the Project directory:
-  ```bash
-  cd path/to/your/project
+   ```bash
+   cd path/to/your/project
+   ```
 2. Run the Streamlit Web Application:
-  ```bash
-  streamlit run home.py
-
-
+   ```bash
+   streamlit run home.py
+   ```
+   
 ## Accessing the Web Application
+Once the server is running, open a web browser and go to http://localhost:8501. This will load the PropAnalytics platform where you can interact with the various analytical tools provided.
+
+## Contributions
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Ensure to update tests as appropriate.
 
 
 
