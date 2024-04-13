@@ -42,7 +42,8 @@ All modules are integrated into a user-friendly web interface built with Streaml
    ```bash
    cd path/to/your/project
    ```
-2. Run the Streamlit Web Application:
+2. In dataset folder, de-compress pipeline.rar. 
+3. Run the Streamlit Web Application:
    ```bash
    streamlit run home.py
    ```
