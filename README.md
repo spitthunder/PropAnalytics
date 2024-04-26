@@ -16,7 +16,7 @@ All modules are integrated into a user-friendly web interface built with Streaml
 - **Matplotlib**: Data visualization
 - **Streamlit**: Web application framework
 - **Scikit-learn**: Machine learning library, specifically version 1.4.1.post1 for the machine learning pipeline
-- **Seaborn**: Enhanced data visualization
+- **Seaborn and Plotly**: Enhanced data visualization
 - **WordCloud**: Visualization of key textual data
 - **Pickle**: Object serialization
   
